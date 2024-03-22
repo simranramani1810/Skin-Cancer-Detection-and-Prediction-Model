@@ -1,0 +1,6 @@
+# numpy
+# OpenCV
+# tensorflow
+# keras
+# scikit learn
+# PyTorch
